@@ -111,6 +111,6 @@ Now Netlify will build and deploy your site whenever you push to git.
 
 You can also click this button:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/199eaa13-9d0b-403d-9c72-c011e44c7f11/deploy-status)](https://app.netlify.com/sites/frosty-lalande-f8af17/deploys)
 
 ## Enjoy!! 😸
